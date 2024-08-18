@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wizzpradeep/quotes-generator/static/css/main.45e2ea02.css",
+    "main.js": "/wizzpradeep/quotes-generator/static/js/main.97fe2453.js",
+    "static/js/453.97daf3ad.chunk.js": "/wizzpradeep/quotes-generator/static/js/453.97daf3ad.chunk.js",
+    "index.html": "/wizzpradeep/quotes-generator/index.html",
+    "main.45e2ea02.css.map": "/wizzpradeep/quotes-generator/static/css/main.45e2ea02.css.map",
+    "main.97fe2453.js.map": "/wizzpradeep/quotes-generator/static/js/main.97fe2453.js.map",
+    "453.97daf3ad.chunk.js.map": "/wizzpradeep/quotes-generator/static/js/453.97daf3ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45e2ea02.css",
+    "static/js/main.97fe2453.js"
+  ]
+}
